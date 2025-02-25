@@ -2,12 +2,12 @@
 
 [GoUrl.io](https://gourl.io) Crypto Payment Gateway for Laravel.  
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/victorybiz/laravel-crypto-payment-gateway.svg?style=flat-square)](https://packagist.org/packages/victorybiz/laravel-crypto-payment-gateway)
-[![Total Downloads](https://img.shields.io/packagist/dt/victorybiz/laravel-crypto-payment-gateway.svg?style=flat-square)](https://packagist.org/packages/victorybiz/laravel-crypto-payment-gateway)
-![GitHub Actions](https://github.com/victorybiz/laravel-crypto-payment-gateway/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/shynne109/laravel-crypto-payment-gateway.svg?style=flat-square)](https://packagist.org/packages/shynne109/laravel-crypto-payment-gateway)
+[![Total Downloads](https://img.shields.io/packagist/dt/shynne109/laravel-crypto-payment-gateway.svg?style=flat-square)](https://packagist.org/packages/shynne109/laravel-crypto-payment-gateway)
+![GitHub Actions](https://github.com/shynne109/laravel-crypto-payment-gateway/actions/workflows/main.yml/badge.svg)
 
    
-![preview](https://github.com/victorybiz/laravel-crypto-payment-gateway/raw/main/demo.png) 
+![preview](https://github.com/shynne109/laravel-crypto-payment-gateway/raw/main/demo.png) 
 
 ## Table of Contents
 - [Laravel Crypto Payment Gateway](#laravel-crypto-payment-gateway)
@@ -49,7 +49,7 @@
 You can install the package via composer:
 
 ```bash
-composer require victorybiz/laravel-crypto-payment-gateway
+composer require shynne109/laravel-crypto-payment-gateway
 ```
 
 Next, you should publish the configuration, migration and asset files using the `vendor:publish` Artisan command. The configuration, migration and asset files will be placed in your application's `config`, `database/migrations` and `public/vendor` directory respectively:
